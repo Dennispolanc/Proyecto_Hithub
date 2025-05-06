@@ -11,7 +11,8 @@ namespace Proyecto_Hithub
         static void Main(string[] args)
         {
             Console.WriteLine("Mi primer proyecto de Github");
-            console.Readkey();
+            Console.WriteLine("Ingenieria en sistema");
+            Console.Readkey();
 
         }
     }
